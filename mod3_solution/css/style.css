@@ -24,13 +24,6 @@ h3 {
 	color:white;
 	font-size:20px;
 	font-family: Helvetica;
-	width:85%;
-	margin:auto;
-}
-@media (min-width: 768px) {
-  .content {
-    min-width:300px;
-  }
 }
 .item {
 	font-weight:bold;
