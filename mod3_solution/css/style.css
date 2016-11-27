@@ -1,0 +1,39 @@
+/*body {
+	background-color:#D7C4BB;
+}*/
+h1 {
+	font-family: Helvetica;
+	color:#E98B2A;/*#E98B2A*/
+}
+h3 {
+	font-family: Helvetica;
+	color:#FBE251;
+}
+#nav-head-title {
+	color:#4E4F97;
+	font-size:28px;
+	font-family: Helvetica;
+}
+#nav-head {
+	background-color:#FBE251;
+	font-family: Helvetica;
+}
+.content {
+    background-color: #4E4F97;
+    padding: 10px;
+	color:white;
+	font-size:20px;
+	font-family: Helvetica;
+	width:75%;
+	margin:auto;
+}
+@media (min-width: 768px) {
+  .content {
+    min-width:300px;
+  }
+}
+.item {
+	font-weight:bold;
+	font-family: Helvetica;
+	font-size:18px;
+}
